@@ -1,0 +1,68 @@
+{
+  "sql": {
+    "display_name": "SQL",
+    "description": "Querying data using SQL is a basic skill for everyone that works with data",
+    "resources": []
+  },
+  "relational_db": {
+    "display_name": "Relational Databases",
+    "description": "Design and handle relational databases",
+    "resources": []
+  },
+  "nosql_db": {
+    "display_name": "noSql",
+    "description": "Familiarity with non-relational databases is essential",
+    "resources": []
+  },
+  "olap_data_modeling": {
+    "display_name": "OLAP Data modeling",
+    "description": "OLAP (analytical) databases (used in data warehouses) data modeling concepts",
+    "resources": [
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "The Data Warehouse Toolkit",
+        "author": "Ralph Kimball",
+        "link": "https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Data warehouse schema design - dimensional modeling and star schema",
+        "author": "Snir David",
+        "link": "https://snir.dev/talks/data-warehouse-schema-design"
+      }
+    ]
+  },
+  "data_warehouses": {
+    "display_name": "Data warehouses",
+    "description": "What are some common data warehouses products out there and how to handle them",
+    "resources": []
+  },
+  "batch_data_processing": {
+    "display_name": "Batch data processing",
+    "description": "The \"first\" generation of data processing, such as Hadoop",
+    "resources": []
+  },
+  "stream_data_processing": {
+    "display_name": "Stream data processing",
+    "description": "Handle data processing with streaming method only, with tools like Kafka",
+    "resources": []
+  },
+  "hybrid_data_processing": {
+    "display_name": "Hybrid data processing",
+    "description": "Modern tools allow for data processing both in batch and in stream, such as Spark",
+    "resources": []
+  },
+  "process_schedulers": {
+    "display_name": "Process schedulers",
+    "description": "Scheduling tools for data processing (Airflow, Google composer)",
+    "resources": []
+  },
+  "etl": {},
+  "security_and_privact": {
+    "display_name": "Security and privacy",
+    "description": "How to manage sensitive data, compliance with regulation (GDPR) and more",
+    "resources": []
+  }
+}
