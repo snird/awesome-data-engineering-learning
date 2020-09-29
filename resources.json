@@ -2,7 +2,88 @@
   "sql": {
     "display_name": "SQL",
     "description": "Querying data using SQL is a basic skill for everyone that works with data",
-    "resources": []
+    "resources": [
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Head First SQL: Your Brain on SQL",
+        "author": "Lynn Beighley",
+        "subject_coverage": 5,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Learning SQL: Generate, Manipulate, and Retrieve Data 3rd Edition",
+        "author": "Alan Beaulieu",
+        "subject_coverage": 5,
+        "depth": 5,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614"
+      },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "Tutorials Point SQL tutorial",
+        "author": "tutorials point",
+        "subject_coverage": 4,
+        "depth": 2,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.tutorialspoint.com/sql/index.htm"
+      },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "Code academy SQL tutorial - interactive",
+        "author": "code academy",
+        "subject_coverage": 3,
+        "depth": 2,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.codecademy.com/learn/learn-sql"
+      },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "SQLbolt SQL tutorial - interactive",
+        "author": "SQLBolt",
+        "subject_coverage": 4,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.codecademy.com/learn/learn-sql"
+      },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "SQLbolt SQL tutorial - interactive",
+        "author": "SQLBolt",
+        "subject_coverage": 4,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.codecademy.com/learn/learn-sql"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Khan Academy SQL video course - interactive",
+        "author": "Khan Academy",
+        "subject_coverage": 3,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.khanacademy.org/computing/computer-programming/sql/"
+      },
+      {
+        "resource_type": "video",
+        "is_free": false,
+        "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (Udemy course)",
+        "author": "Nassim Badaoui",
+        "subject_coverage": 5,
+        "depth": 5,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/"
+      }
+    ]
   },
   "relational_db": {
     "display_name": "Relational Databases",
@@ -23,6 +104,9 @@
         "is_free": false,
         "title": "The Data Warehouse Toolkit",
         "author": "Ralph Kimball",
+        "subject_coverage": 5,
+        "depth": 5,
+        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802"
       },
       {
@@ -30,6 +114,9 @@
         "is_free": true,
         "title": "Data warehouse schema design - dimensional modeling and star schema",
         "author": "Snir David",
+        "subject_coverage": 3,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": true,
         "link": "https://snir.dev/talks/data-warehouse-schema-design"
       }
     ]
@@ -59,7 +146,6 @@
     "description": "Scheduling tools for data processing (Airflow, Google composer)",
     "resources": []
   },
-  "etl": {},
   "security_and_privact": {
     "display_name": "Security and privacy",
     "description": "How to manage sensitive data, compliance with regulation (GDPR) and more",
