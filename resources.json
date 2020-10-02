@@ -51,17 +51,7 @@
         "subject_coverage": 4,
         "depth": 3,
         "suitable_to_beginners_in_subject": true,
-        "link": "https://www.codecademy.com/learn/learn-sql"
-      },
-      {
-        "resource_type": "tutorial",
-        "is_free": true,
-        "title": "SQLbolt SQL tutorial - interactive",
-        "author": "SQLBolt",
-        "subject_coverage": 4,
-        "depth": 3,
-        "suitable_to_beginners_in_subject": true,
-        "link": "https://www.codecademy.com/learn/learn-sql"
+        "link": "https://sqlbolt.com"
       },
       {
         "resource_type": "video",
