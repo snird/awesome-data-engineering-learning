@@ -88,6 +88,56 @@
         "depth": 4,
         "suitable_to_beginners_in_subject": true,
         "link": "https://www.youtube.com/watch?v=ztHopE5Wnpc"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "subject_coverage": 5,
+        "depth": 5,
+        "suitable_to_beginners_in_subject": false,
+        "link": "https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321"
+      },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "Normalization of Database",
+        "author": "studytonight.com",
+        "subject_coverage": 4,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": false,
+        "link": "https://www.studytonight.com/dbms/database-normalization.php"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design",
+        "author": "Michael Hernandez",
+        "subject_coverage": 5,
+        "depth": 5,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "DBMS Architecture: 1-Tier, 2-Tier & 3-Tier",
+        "author": "Guru99",
+        "subject_coverage": 4,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.guru99.com/dbms-architecture.html"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "An Introduction to High Availability Computing: Concepts and Theory",
+        "author": "David Clinton",
+        "subject_coverage": 4,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.freecodecamp.org/news/high-availability-concepts-and-theory/"
       }
     ]
   },
