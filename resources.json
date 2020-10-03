@@ -76,9 +76,20 @@
     ]
   },
   "relational_db": {
-    "display_name": "Relational Databases",
-    "description": "Design and handle relational databases",
-    "resources": []
+    "display_name": "Relational Databases - Design & Architecture",
+    "description": "RDBMS are the basic building block for any application data. Data engineer should know how to design and architect their structures, and learn about various concepts related to them.",
+    "resources": [
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Database Design Course (freeCodeCamp)",
+        "author": "Caleb Curry",
+        "subject_coverage": 5,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.youtube.com/watch?v=ztHopE5Wnpc"
+      },
+    ]
   },
   "nosql_db": {
     "display_name": "noSql",
