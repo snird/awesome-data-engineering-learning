@@ -54,7 +54,7 @@
         "link": "https://sqlbolt.com"
       },
       {
-        "resource_type": "video",
+        "resource_type": "course",
         "is_free": true,
         "title": "Khan Academy SQL video course - interactive",
         "author": "Khan Academy",
@@ -64,7 +64,7 @@
         "link": "https://www.khanacademy.org/computing/computer-programming/sql/"
       },
       {
-        "resource_type": "video",
+        "resource_type": "course",
         "is_free": false,
         "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (Udemy course)",
         "author": "Nassim Badaoui",
@@ -80,7 +80,7 @@
     "description": "RDBMS are the basic building block for any application data. Data engineer should know how to design and architect their structures, and learn about various concepts related to them.",
     "resources": [
       {
-        "resource_type": "video",
+        "resource_type": "course",
         "is_free": true,
         "title": "Database Design Course (freeCodeCamp)",
         "author": "Caleb Curry",
