@@ -144,7 +144,98 @@
   "nosql_db": {
     "display_name": "noSql",
     "description": "Familiarity with non-relational databases is essential",
-    "resources": []
+    "resources": [
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence",
+        "author": "Martin Fowler, Pramod J. Sadalage",
+        "subject_coverage": 5,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence-ebook/dp/B0090J3SYW"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "NoSQL for Mere Mortals",
+        "author": "Dan Sullivan",
+        "subject_coverage": 5,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/gp/product/0134023218"
+      },
+      {
+        "resource_type": "course",
+        "is_free": true,
+        "title": "NoSQL systems (Coursera)",
+        "author": "María del Pilar Ángeles",
+        "subject_coverage": 4,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.coursera.org/learn/nosql-databases#about"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement",
+        "author": "Luc Perkins, Eric Redmond, Jim Wilson",
+        "subject_coverage": 4,
+        "depth": 2,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "NoSQL Tutorial: Learn NoSQL Features, Types, What is, Advantages",
+        "author": "Guru99",
+        "subject_coverage": 3,
+        "depth": 2,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.guru99.com/nosql-tutorial.html"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "MongoDB - The Complete Developer's Guide 2020",
+        "author": "Academind",
+        "subject_coverage": 5,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "MongoDB: The Definitive Guide: Powerful and Scalable Data Storage",
+        "author": "Kristina Chodorow",
+        "subject_coverage": 5,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage/dp/1449344682"
+      },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "MongoDB Tutorials - official docs",
+        "author": "MongoDB",
+        "subject_coverage": 5,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://docs.mongodb.com/manual/tutorial/"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Redis Crash Course Tutorial",
+        "author": "Traversy Media",
+        "subject_coverage": 3,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.youtube.com/watch?v=Hbt56gFj998"
+      },
+    ]
   },
   "olap_data_modeling": {
     "display_name": "OLAP Data modeling",
