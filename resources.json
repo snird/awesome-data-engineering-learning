@@ -275,7 +275,7 @@
   },
   "olap_data_modeling": {
     "display_name": "OLAP Data modeling",
-    "description": "OLAP (analytical) databases (used in data warehouses) data modeling concepts",
+    "description": "OLAP (analytical) databases (used in data warehouses) data modeling concepts, modeling the data correctly is essential for a functioning data warehouse",
     "resources": [
       {
         "resource_type": "book",
@@ -296,7 +296,37 @@
         "depth": 4,
         "suitable_to_beginners_in_subject": true,
         "link": "https://snir.dev/talks/data-warehouse-schema-design"
-      }
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Understand star schema and the importance for Power BI",
+        "author": "Various at Microsoft",
+        "subject_coverage": 3,
+        "depth": 3,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://docs.microsoft.com/en-us/power-bi/guidance/star-schema"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Slowly Changing Dimension in Data Warehousing",
+        "author": "Muhammad Salah El-Okda",
+        "subject_coverage": 3,
+        "depth": 2,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://medium.com/@Muhammad7Salah/slowly-changing-dimension-in-data-warehouse-7ca21e0e8c9"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema",
+        "author": "Lawrence Corr, Jim Stagnitto",
+        "subject_coverage": 5,
+        "depth": 5,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.amazon.com/Agile-Data-Warehouse-Design-Collaborative/dp/0956817203"
+      },
     ]
   },
   "data_warehouses": {
