@@ -1,7 +1,7 @@
 {
   "sql": {
     "display_name": "SQL",
-    "description": "Querying data using SQL is a basic skill for everyone that works with data",
+    "description": "Querying data using SQL is an essential skill for anyone who works with data",
     "resources": [
       {
         "resource_type": "book",
@@ -143,7 +143,7 @@
   },
   "nosql_db": {
     "display_name": "noSql",
-    "description": "Familiarity with non-relational databases is essential",
+    "description": "noSQL is a term for any non-relational database model: key-value, document, column, graph, and more. A basic acquaintance is required, but going deeper into any model depends on the job (except columnar, in the next section).",
     "resources": [
       {
         "resource_type": "book",
@@ -234,6 +234,42 @@
         "depth": 3,
         "suitable_to_beginners_in_subject": true,
         "link": "https://www.youtube.com/watch?v=Hbt56gFj998"
+      },
+    ]
+  },
+  "columnar_db": {
+    "display_name": "Columnar Databases",
+    "description": "Column databases are a kind of nosql databases. They deserve their own section as they are essential for the data engineer as working with Big Data online (as opposed to offline batching) usually requires a columnar back-end.",
+    "resources": [
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Data Processing Holy Grail? Row vs. Columnar Databases",
+        "author": "Joao Sousa",
+        "subject_coverage": 3,
+        "depth": 2,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://dzone.com/articles/the-data-processing-holy-grail-row-vs-columnar-dat",
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Why Column Stores?",
+        "author": "John Schulz",
+        "subject_coverage": 3,
+        "depth": 2,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://blog.pythian.com/why-column-stores/",
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Why We Built Our Own Distributed Column Store (42:40)",
+        "author": "Sam Stokes at strangeloop",
+        "subject_coverage": 4,
+        "depth": 4,
+        "suitable_to_beginners_in_subject": true,
+        "link": "https://www.youtube.com/watch?v=tr2KcekX2kk",
       },
     ]
   },
