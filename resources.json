@@ -10,7 +10,6 @@
         "author": "Lynn Beighley",
         "subject_coverage": 5,
         "depth": 4,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849"
       },
       {
@@ -20,7 +19,6 @@
         "author": "Alan Beaulieu",
         "subject_coverage": 5,
         "depth": 5,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614"
       },
       {
@@ -30,7 +28,6 @@
         "author": "tutorials point",
         "subject_coverage": 4,
         "depth": 2,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.tutorialspoint.com/sql/index.htm"
       },
       {
@@ -40,7 +37,6 @@
         "author": "code academy",
         "subject_coverage": 3,
         "depth": 2,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.codecademy.com/learn/learn-sql"
       },
       {
@@ -50,7 +46,6 @@
         "author": "SQLBolt",
         "subject_coverage": 4,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://sqlbolt.com"
       },
       {
@@ -60,7 +55,6 @@
         "author": "Khan Academy",
         "subject_coverage": 3,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.khanacademy.org/computing/computer-programming/sql/"
       },
       {
@@ -70,7 +64,6 @@
         "author": "Nassim Badaoui",
         "subject_coverage": 5,
         "depth": 5,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/"
       }
     ]
@@ -86,7 +79,6 @@
         "author": "Caleb Curry",
         "subject_coverage": 5,
         "depth": 4,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.youtube.com/watch?v=ztHopE5Wnpc"
       },
       {
@@ -96,7 +88,6 @@
         "author": "Martin Kleppmann",
         "subject_coverage": 5,
         "depth": 5,
-        "suitable_to_beginners_in_subject": false,
         "link": "https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321"
       },
       {
@@ -106,7 +97,6 @@
         "author": "studytonight.com",
         "subject_coverage": 4,
         "depth": 4,
-        "suitable_to_beginners_in_subject": false,
         "link": "https://www.studytonight.com/dbms/database-normalization.php"
       },
       {
@@ -116,7 +106,6 @@
         "author": "Michael Hernandez",
         "subject_coverage": 5,
         "depth": 5,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493"
       },
       {
@@ -126,7 +115,6 @@
         "author": "Guru99",
         "subject_coverage": 4,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.guru99.com/dbms-architecture.html"
       },
       {
@@ -136,7 +124,6 @@
         "author": "David Clinton",
         "subject_coverage": 4,
         "depth": 4,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.freecodecamp.org/news/high-availability-concepts-and-theory/"
       }
     ]
@@ -152,7 +139,6 @@
         "author": "Martin Fowler, Pramod J. Sadalage",
         "subject_coverage": 5,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence-ebook/dp/B0090J3SYW"
       },
       {
@@ -162,7 +148,6 @@
         "author": "Dan Sullivan",
         "subject_coverage": 5,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/gp/product/0134023218"
       },
       {
@@ -172,7 +157,6 @@
         "author": "María del Pilar Ángeles",
         "subject_coverage": 4,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.coursera.org/learn/nosql-databases#about"
       },
       {
@@ -182,7 +166,6 @@
         "author": "Luc Perkins, Eric Redmond, Jim Wilson",
         "subject_coverage": 4,
         "depth": 2,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1680502530"
       },
       {
@@ -192,7 +175,6 @@
         "author": "Guru99",
         "subject_coverage": 3,
         "depth": 2,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.guru99.com/nosql-tutorial.html"
       },
       {
@@ -202,7 +184,6 @@
         "author": "Academind",
         "subject_coverage": 5,
         "depth": 4,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/"
       },
       {
@@ -212,7 +193,6 @@
         "author": "Kristina Chodorow",
         "subject_coverage": 5,
         "depth": 4,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage/dp/1449344682"
       },
       {
@@ -222,7 +202,6 @@
         "author": "MongoDB",
         "subject_coverage": 5,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://docs.mongodb.com/manual/tutorial/"
       },
       {
@@ -232,7 +211,6 @@
         "author": "Traversy Media",
         "subject_coverage": 3,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.youtube.com/watch?v=Hbt56gFj998"
       },
     ]
@@ -248,18 +226,7 @@
         "author": "Joao Sousa",
         "subject_coverage": 3,
         "depth": 2,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://dzone.com/articles/the-data-processing-holy-grail-row-vs-columnar-dat",
-      },
-      {
-        "resource_type": "article",
-        "is_free": true,
-        "title": "Why Column Stores?",
-        "author": "John Schulz",
-        "subject_coverage": 3,
-        "depth": 2,
-        "suitable_to_beginners_in_subject": true,
-        "link": "https://blog.pythian.com/why-column-stores/",
       },
       {
         "resource_type": "video",
@@ -268,8 +235,103 @@
         "author": "Sam Stokes at strangeloop",
         "subject_coverage": 4,
         "depth": 4,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.youtube.com/watch?v=tr2KcekX2kk",
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Why Column Stores?",
+        "author": "John Schulz",
+        "subject_coverage": 3,
+        "depth": 2,
+        "link": "https://blog.pythian.com/why-column-stores/",
+      },
+    ]
+  },
+  "data_warehouses": {
+    "display_name": "Data warehouses",
+    "description": "Understand the concepts behind data warehouses and familiarize youself with common data warehouse solutions",
+    "resources": [
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "What is Data Warehouse? Types, Definition & Example",
+        "author": "Guru99",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://www.guru99.com/data-warehousing.html"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "The Data Warehouse Toolkit",
+        "author": "Ralph Kimball",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Building the Data Warehouse",
+        "author": "W. H. Inmon",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Building-Data-Warehouse-W-Inmon/dp/0764599445"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "What is a Data Warehouse - Explained with real life example (9:36)",
+        "author": "IT k Funde",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://www.youtube.com/watch?v=jmwGNhUXn_o"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "Data Warehouse Fundamentals for Beginners",
+        "author": "Alan Simon",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "Data Warehouse Concepts: Basic to Advanced concepts",
+        "author": "Sid Inf",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.udemy.com/course/master-datawarehouse-concepts-step-by-step-from-scratch/"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Data Warehousing With BigQuery: Best Practices (Cloud Next '19) (43:07)",
+        "author": "Ryan McDowell",
+        "subject_coverage": 4,
+        "depth": 3,
+        "link": "https://www.youtube.com/watch?v=ZVgt1-LfWW4"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Snowflake’s Cloud Data Warehouse — What I Learned and Why I’m Rethinking the Data Warehous",
+        "author": "Ed Fron",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://medium.com/hashmapinc/snowflakes-cloud-data-warehouse-what-i-learned-and-why-i-m-rethinking-the-data-warehouse-75a5daad271c"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Best Practices for Data Warehousing with Amazon Redshift (18:03)",
+        "author": "AWS",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://www.youtube.com/watch?v=ZvAqJtZ5JRs"
       },
     ]
   },
@@ -284,7 +346,6 @@
         "author": "Ralph Kimball",
         "subject_coverage": 5,
         "depth": 5,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802"
       },
       {
@@ -294,7 +355,6 @@
         "author": "Snir David",
         "subject_coverage": 3,
         "depth": 4,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://snir.dev/talks/data-warehouse-schema-design"
       },
       {
@@ -304,7 +364,6 @@
         "author": "Various at Microsoft",
         "subject_coverage": 3,
         "depth": 3,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://docs.microsoft.com/en-us/power-bi/guidance/star-schema"
       },
       {
@@ -314,7 +373,6 @@
         "author": "Muhammad Salah El-Okda",
         "subject_coverage": 3,
         "depth": 2,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://medium.com/@Muhammad7Salah/slowly-changing-dimension-in-data-warehouse-7ca21e0e8c9"
       },
       {
@@ -324,15 +382,9 @@
         "author": "Lawrence Corr, Jim Stagnitto",
         "subject_coverage": 5,
         "depth": 5,
-        "suitable_to_beginners_in_subject": true,
         "link": "https://www.amazon.com/Agile-Data-Warehouse-Design-Collaborative/dp/0956817203"
       },
     ]
-  },
-  "data_warehouses": {
-    "display_name": "Data warehouses",
-    "description": "What are some common data warehouses products out there and how to handle them",
-    "resources": []
   },
   "batch_data_processing": {
     "display_name": "Batch data processing",
