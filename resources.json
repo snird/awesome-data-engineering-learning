@@ -386,19 +386,73 @@
       },
     ]
   },
-  "batch_data_processing": {
-    "display_name": "Batch data processing",
-    "description": "The \"first\" generation of data processing, such as Hadoop",
-    "resources": []
+  "batch_data_processing_and_map_reduce": {
+    "before_segment_note": {
+      "title": "Data processing - Batch, MapReduce, Streaming",
+      "text": "The next 2 categories are all about data processing mechnisms. We'll start with batch processing and MapReduce, typically with Hadoop. This is considered the first gen of data processing. From there we'll go to stram processing, typically done with Spark. These subjects are deeply connected. For example, Spark can operate on HDFS which is the file system for Hadoop. Even though it would seem outdated to learn about batch processing with Hadoop, it is essential to understand the subject even if you plan to live the streaming data life."
+    },
+    "display_name": "Batch data processing & MapReduce",
+    "description": "The \"first\" generation of data processing, using Hadoop and Spring. Everyone should know how it works, but going deep into the details and operations are recommended only if necessary. Focus more on streaming with tools like Spark today.",
+    "resources": [
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Beginner’s Guide to Batch Processing",
+        "author": "talend",
+        "subject_coverage": 3,
+        "depth": 2,
+        "link": "https://www.talend.com/resources/batch-processing/"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "What is MapReduce? How it Works - Hadoop MapReduce Tutorial",
+        "author": "Guru99",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://www.guru99.com/introduction-to-mapreduce.html"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "How do Hadoop and Spark Stack Up?",
+        "author": "Amir Kalron",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "logz.io/blog/hadoop-vs-spark"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Hadoop: The Definitive Guide: Storage and Analysis at Internet Scale",
+        "author": "Tom White",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Batch Processing with Spring",
+        "author": "Michael Minella, Mahmoud Ben Hassine",
+        "subject_coverage": 3,
+        "depth": 4,
+        "link": "https://www.youtube.com/watch?v=bhFBtNiZYYY"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "The Ultimate Hands-On Hadoop - Tame your Big Data",
+        "author": "Frank Kane",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/"
+      },
+    ]
   },
   "stream_data_processing": {
     "display_name": "Stream data processing",
     "description": "Handle data processing with streaming method only, with tools like Kafka",
-    "resources": []
-  },
-  "hybrid_data_processing": {
-    "display_name": "Hybrid data processing",
-    "description": "Modern tools allow for data processing both in batch and in stream, such as Spark",
     "resources": []
   },
   "process_schedulers": {
