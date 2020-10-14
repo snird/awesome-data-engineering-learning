@@ -452,7 +452,7 @@
   },
   "stream_data_processing": {
     "display_name": "Stream data processing",
-    "description": "Handle data processing with streaming method only, with tools like Kafka",
+    "description": "The \"next\" generation of data processing. Suggested to get a good grasp of the subject fromt the \"Streaming Systems\" book and then dive deep into a specific tool like Kafka, Spark, Flink, etc.",
     "resources": [
       {
         "resource_type": "book",
