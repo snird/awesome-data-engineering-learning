@@ -453,7 +453,80 @@
   "stream_data_processing": {
     "display_name": "Stream data processing",
     "description": "Handle data processing with streaming method only, with tools like Kafka",
-    "resources": []
+    "resources": [
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing",
+        "author": "Tyler Akidau, Slava Chernyak, Reuven Lax",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Spark: The Definitive Guide: Big Data Processing Made Simple",
+        "author": "Bill Chambers, Matei Zaharia",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Stream Processing with Apache Flink: Fundamentals, Implementation, and Operation of Streaming Applications",
+        "author": "Fabian Hueske, Vasiliki Kalavri",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Stream-Processing-Apache-Flink-Implementation/dp/149197429X"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "Kafka Streams for Data Processing",
+        "author": "Stephane Maarek",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.udemy.com/course/kafka-streams/"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "Streaming Big Data with Spark Streaming & Scala",
+        "author": "Frank Kane",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.udemy.com/course/taming-big-data-with-spark-streaming-hands-on/"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "What is Streaming Data?",
+        "author": "Confluent",
+        "subject_coverage": 3,
+        "depth": 2,
+        "link": "https://www.confluent.io/learn/data-streaming/"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Intro to Streams | Apache Kafka (10:11)",
+        "author": "Confluent",
+        "subject_coverage": 2,
+        "depth": 2,
+        "link": "https://www.youtube.com/watch?v=Z3JKCLG3VP4"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Data Stream Processing Concepts and Implementations (45:29)",
+        "author": "Matthias Niehoff at Devoxx conf",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://www.youtube.com/watch?v=5inVCagXc2A"
+      },
+    ]
   },
   "process_schedulers": {
     "display_name": "Process schedulers",
