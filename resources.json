@@ -528,14 +528,97 @@
       },
     ]
   },
-  "process_schedulers": {
-    "display_name": "Process schedulers",
-    "description": "Scheduling tools for data processing (Airflow, Google composer)",
-    "resources": []
+  "pipelines": {
+    "display_name": "Pipelines Management (Workflow management)",
+    "description": "Scheduling tools for data processing. Airflow considered to be the defacto standard, but any understanding of DAGs - directed acyclical graphs for tasks will be good.",
+    "resources": [
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Directed Acyclic Graph (DAG)",
+        "author": "hazelcast",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://hazelcast.com/glossary/directed-acyclic-graph/"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "Airflow docs - Concepts (Demonstrated with Airflow but the concepts are generic)",
+        "author": "Airflow documentation",
+        "subject_coverage": 4,
+        "depth": 3,
+        "link": "https://hazelcast.com/glossary/directed-acyclic-graph/"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Data Pipelines with Apache Airflow",
+        "author": "Bas P. Harenslak, Julian Rutger de Ruiter",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Data-Pipelines-Apache-Airflow-Harenslak/dp/1617296902"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Data Pipeline Frameworks: The Dream and the Reality (35:33)",
+        "author": "Mark Weiss",
+        "subject_coverage": 4,
+        "depth": 4,
+        "link": "https://www.youtube.com/watch?v=C6Abv87D5dU"
+      },
+    ]
   },
-  "security_and_privact": {
+  "security_and_privacy": {
     "display_name": "Security and privacy",
     "description": "How to manage sensitive data, compliance with regulation (GDPR) and more",
-    "resources": []
+    "resources": [
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "What is data security?",
+        "author": "IBM",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://www.ibm.com/topics/data-security"
+      },
+      {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "What Do Data Scientists and Data Engineers Need to Know about GDPR?",
+        "author": "Andrew Burt",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://www.infoq.com/articles/effective-data-management-age-GDPR/"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "IT Governance: An International Guide to Data Security and ISO 27001/ISO 27002",
+        "author": "Alan Calder, Steve Watkins",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Governance-International-Guide-Security-27001/dp/0749496959"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Information Privacy Engineering and Privacy by Design",
+        "author": "William Stallings",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Information-Privacy-Engineering-Design-Understanding-ebook/dp/B082FMW1XX"
+      },
+      {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Data Security Essentials",
+        "author": "Oracle developers",
+        "subject_coverage": 4,
+        "depth": 3,
+        "link": "https://www.youtube.com/watch?v=9WckTTqpD_M"
+      },
+    ]
   }
 }
