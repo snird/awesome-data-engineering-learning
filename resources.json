@@ -68,6 +68,66 @@
       }
     ]
   },
+  "programming": {
+    "display_name": "Programming language",
+    "description": "As data engineer you'll write alot of code to handle various business cases such as ETLs, data pieplines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
+    "resources": [
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+        "author": "Eric Matthes",
+        "subject_coverage": 5,
+        "depth": 4,
+        "link": "https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280"
+      },
+      {
+        "resource_type": "book",
+        "is_free": false,
+        "title": "Learning Python, 5th Edition",
+        "author": "Mark Lutz",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730"
+      },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "The Python Tutorial",
+        "author": "Python documentation",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://docs.python.org/3/tutorial/"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "Learn Python Programming Masterclass",
+        "author": "Tim Buchalka",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.udemy.com/course/python-the-complete-python-developer-course/"
+      },
+      {
+        "resource_type": "course",
+        "is_free": false,
+        "title": "Learn Python Programming (Python 3)",
+        "author": "Jason Cannon",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.udemy.com/course/python-programming-projects/"
+      },
+      {
+        "resource_type": "course",
+        "is_free": true,
+        "title": "Python for Everybody",
+        "author": "University Of Michigan",
+        "subject_coverage": 5,
+        "depth": 5,
+        "link": "https://www.coursera.org/specializations/python"
+      },
+    ]
+  },
   "relational_db": {
     "display_name": "Relational Databases - Design & Architecture",
     "description": "RDBMS are the basic building block for any application data. Data engineer should know how to design and architect their structures, and learn about various concepts related to them.",
