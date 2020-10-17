@@ -2,6 +2,7 @@
   "sql": {
     "display_name": "SQL",
     "description": "Querying data using SQL is an essential skill for anyone who works with data",
+    "essentiality": 3,
     "resources": [
       {
         "resource_type": "book",
@@ -71,6 +72,7 @@
   "programming": {
     "display_name": "Programming language",
     "description": "As data engineer you'll write alot of code to handle various business cases such as ETLs, data pieplines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
+    "essentiality": 3,
     "resources": [
       {
         "resource_type": "book",
@@ -131,6 +133,7 @@
   "relational_db": {
     "display_name": "Relational Databases - Design & Architecture",
     "description": "RDBMS are the basic building block for any application data. Data engineer should know how to design and architect their structures, and learn about various concepts related to them.",
+    "essentiality": 3,
     "resources": [
       {
         "resource_type": "course",
@@ -191,6 +194,7 @@
   "nosql_db": {
     "display_name": "noSql",
     "description": "noSQL is a term for any non-relational database model: key-value, document, column, graph, and more. A basic acquaintance is required, but going deeper into any model depends on the job (except columnar, in the next section).",
+    "essentiality": 2,
     "resources": [
       {
         "resource_type": "book",
@@ -278,6 +282,7 @@
   "columnar_db": {
     "display_name": "Columnar Databases",
     "description": "Column databases are a kind of nosql databases. They deserve their own section as they are essential for the data engineer as working with Big Data online (as opposed to offline batching) usually requires a columnar back-end.",
+    "essentiality": 2,
     "resources": [
       {
         "resource_type": "article",
@@ -311,6 +316,7 @@
   "data_warehouses": {
     "display_name": "Data warehouses",
     "description": "Understand the concepts behind data warehouses and familiarize youself with common data warehouse solutions",
+    "essentiality": 3,
     "resources": [
       {
         "resource_type": "article",
@@ -398,6 +404,7 @@
   "olap_data_modeling": {
     "display_name": "OLAP Data modeling",
     "description": "OLAP (analytical) databases (used in data warehouses) data modeling concepts, modeling the data correctly is essential for a functioning data warehouse",
+    "essentiality": 2,
     "resources": [
       {
         "resource_type": "book",
@@ -453,6 +460,7 @@
     },
     "display_name": "Batch data processing & MapReduce",
     "description": "The \"first\" generation of data processing, using Hadoop and Spring. Everyone should know how it works, but going deep into the details and operations are recommended only if necessary. Focus more on streaming with tools like Spark today.",
+    "essentiality": 1,
     "resources": [
       {
         "resource_type": "article",
@@ -513,6 +521,7 @@
   "stream_data_processing": {
     "display_name": "Stream data processing",
     "description": "The \"next\" generation of data processing. Suggested to get a good grasp of the subject fromt the \"Streaming Systems\" book and then dive deep into a specific tool like Kafka, Spark, Flink, etc.",
+    "essentiality": 2,
     "resources": [
       {
         "resource_type": "book",
@@ -591,6 +600,7 @@
   "pipelines": {
     "display_name": "Pipelines Management (Workflow management)",
     "description": "Scheduling tools for data processing. Airflow considered to be the defacto standard, but any understanding of DAGs - directed acyclical graphs for tasks will be good.",
+    "essentiality": 2,
     "resources": [
       {
         "resource_type": "article",
@@ -633,6 +643,7 @@
   "security_and_privacy": {
     "display_name": "Security and privacy",
     "description": "How to manage sensitive data, compliance with regulation (GDPR) and more",
+    "essentiality": 1,
     "resources": [
       {
         "resource_type": "article",
