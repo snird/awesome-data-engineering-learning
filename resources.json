@@ -487,7 +487,7 @@
         "author": "Amir Kalron",
         "subject_coverage": 3,
         "depth": 3,
-        "link": "logz.io/blog/hadoop-vs-spark"
+        "link": "https://logz.io/blog/hadoop-vs-spark/"
       },
       {
         "resource_type": "book",
@@ -618,7 +618,7 @@
         "author": "Airflow documentation",
         "subject_coverage": 4,
         "depth": 3,
-        "link": "https://hazelcast.com/glossary/directed-acyclic-graph/"
+        "link": "https://airflow.apache.org/docs/stable/concepts.html"
       },
       {
         "resource_type": "book",
