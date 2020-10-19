@@ -71,7 +71,7 @@
   },
   "programming": {
     "display_name": "Programming language",
-    "description": "As data engineer you'll write alot of code to handle various business cases such as ETLs, data pieplines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
+    "description": "As a data engineer you'll be writing alot of code to handle various business cases such as ETLs, data pieplines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
     "essentiality": 3,
     "resources": [
       {
@@ -132,7 +132,7 @@
   },
   "relational_db": {
     "display_name": "Relational Databases - Design & Architecture",
-    "description": "RDBMS are the basic building block for any application data. Data engineer should know how to design and architect their structures, and learn about various concepts related to them.",
+    "description": "RDBMS are the basic building blocks for any application data. A data engineer should know how to design and architect their structures, and learn about concepts that are related to them.",
     "essentiality": 3,
     "resources": [
       {
@@ -520,7 +520,7 @@
   },
   "stream_data_processing": {
     "display_name": "Stream data processing",
-    "description": "The \"next\" generation of data processing. Suggested to get a good grasp of the subject fromt the \"Streaming Systems\" book and then dive deep into a specific tool like Kafka, Spark, Flink, etc.",
+    "description": "The \"next\" generation of data processing. Suggested to get a good grasp of the subject from the \"Streaming Systems\" book and then dive deep into a specific tool like Kafka, Spark, Flink, etc.",
     "essentiality": 2,
     "resources": [
       {
@@ -598,7 +598,7 @@
     ]
   },
   "pipelines": {
-    "display_name": "Pipelines Management (Workflow management)",
+    "display_name": "Pipeline / Workflow Management",
     "description": "Scheduling tools for data processing. Airflow considered to be the defacto standard, but any understanding of DAGs - directed acyclical graphs for tasks will be good.",
     "essentiality": 2,
     "resources": [
