@@ -425,6 +425,15 @@
         "link": "https://snir.dev/talks/data-warehouse-schema-design"
       },
       {
+        "resource_type": "video",
+        "is_free": true,
+        "title": "Slowly changing dimensions in depth",
+        "author": "Snir David",
+        "subject_coverage": 3,
+        "depth": 4,
+        "link": "https://snir.dev/talks/slowly-changing-dimensions-in-depth"
+      },
+      {
         "resource_type": "article",
         "is_free": true,
         "title": "Understand star schema and the importance for Power BI",
