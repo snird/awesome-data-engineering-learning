@@ -71,7 +71,7 @@
   },
   "programming": {
     "display_name": "Programming language",
-    "description": "As a data engineer you'll be writing alot of code to handle various business cases such as ETLs, data pieplines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
+    "description": "As a data engineer you'll be writing a lot of code to handle various business cases such as ETLs, data pieplines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
     "essentiality": 3,
     "resources": [
       {
@@ -465,7 +465,7 @@
   "batch_data_processing_and_map_reduce": {
     "before_segment_note": {
       "title": "Data processing - Batch, MapReduce, Streaming",
-      "text": "The next 2 categories are all about data processing mechnisms. We'll start with batch processing and MapReduce, typically with Hadoop. This is considered the first gen of data processing. From there we'll go to stram processing, typically done with Spark. These subjects are deeply connected. For example, Spark can operate on HDFS which is the file system for Hadoop. Even though it would seem outdated to learn about batch processing with Hadoop, it is essential to understand the subject even if you plan to live the streaming data life."
+      "text": "The next 2 categories are all about data processing mechanisms. We'll start with batch processing and MapReduce, typically with Hadoop. This is considered the first gen of data processing. From there we'll go to stream processing, typically done with Spark. These subjects are deeply connected. For example, Spark can operate on HDFS which is the file system for Hadoop. Even though it would seem outdated to learn about batch processing with Hadoop, it is essential to understand the subject even if you plan to live the streaming data life."
     },
     "display_name": "Batch data processing & MapReduce",
     "description": "The \"first\" generation of data processing, using Hadoop and Spring. Everyone should know how it works, but going deep into the details and operations are recommended only if necessary. Focus more on streaming with tools like Spark today.",
@@ -608,7 +608,7 @@
   },
   "pipelines": {
     "display_name": "Pipeline / Workflow Management",
-    "description": "Scheduling tools for data processing. Airflow considered to be the defacto standard, but any understanding of DAGs - directed acyclical graphs for tasks will be good.",
+    "description": "Scheduling tools for data processing. Airflow is considered to be the defacto standard, but any understanding of DAGs - directed acyclical graphs for tasks will be good.",
     "essentiality": 2,
     "resources": [
       {
