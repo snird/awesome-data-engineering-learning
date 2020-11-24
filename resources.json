@@ -71,7 +71,7 @@
   },
   "programming": {
     "display_name": "Programming language",
-    "description": "As a data engineer you'll be writing a lot of code to handle various business cases such as ETLs, data pieplines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
+    "description": "As a data engineer you'll be writing a lot of code to handle various business cases such as ETLs, data pipelines, etc. The de facto standard language for data engineering is Python (not to be confused with R or nim that are used for data science, they have no use in data engineering).",
     "essentiality": 3,
     "resources": [
       {
