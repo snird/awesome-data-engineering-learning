@@ -75,6 +75,15 @@
     "essentiality": 3,
     "resources": [
       {
+        "resource_type": "article",
+        "is_free": true,
+        "title": "The Top 10 Essential Data Engineer Skills for 2021!",
+        "author": "WebAge",
+        "subject_coverage": 5,
+        "depth": 3,
+        "link": "https://www.webagesolutions.com/top-10-essential-data-engineer-skills-for-2021"
+      },
+      {
         "resource_type": "book",
         "is_free": false,
         "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
