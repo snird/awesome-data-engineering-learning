@@ -399,6 +399,15 @@
         "depth": 3,
         "link": "https://www.youtube.com/watch?v=ZvAqJtZ5JRs"
       },
+      {
+        "resource_type": "tutorial",
+        "is_free": true,
+        "title": "Fintech Data Engineering Roadmap - Offline Data Warehouse Practice",
+        "author": "antony502189-max",
+        "subject_coverage": 3,
+        "depth": 3,
+        "link": "https://github.com/antony502189-max/fintech-data-engineering-roadmap"
+      },
     ]
   },
   "olap_data_modeling": {
